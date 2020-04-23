@@ -23,7 +23,6 @@ export class AppComponent implements OnInit {
   // Solo se ejecuta una vez al iniciar el componente
   ngOnInit() {
 
-    this.GenetareLineIFO();
   }
 
 
